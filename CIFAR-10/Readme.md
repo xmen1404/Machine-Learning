@@ -1,5 +1,5 @@
 # Train Neural Network for CIFAR-10 dataset
-I developed a neural network model for CIFAR-10 dataset. This is an assignment in the course CoE202 at KAIST.
+I developed a neural network model for CIFAR-10 dataset. This is an assignment in the course CoE202 at my university.
 
 # Phases of development
 
