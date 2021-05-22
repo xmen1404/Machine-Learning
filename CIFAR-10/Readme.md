@@ -1,5 +1,5 @@
 # Train Neural Network for CIFAR-10 dataset
-I developed a neural network model for CIFAR-10 dataset. This is an assignment in the course CoE202 at my university.
+I developed a neural network model for CIFAR-10 dataset. This is an assignment from a course at my university.
 
 # Usage
 The source code is a .ipynb file which can be run on Google Colab and other websites that support this notebook document (e.g. Kaggle).
